@@ -97,3 +97,6 @@ huggingface-cli login –token "your_hf_token"
 ```
 python inference.py –config finetune.yaml
 ```
+
+* Prompts used in this work:
+[Prompts](https://github.com/NYCU-NLP-Lab/MathEDU/blob/main/Prompts.pdf)
