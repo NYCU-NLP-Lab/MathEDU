@@ -100,3 +100,14 @@ python inference.py –config finetune.yaml
 
 * Prompts used in this work:
 [Prompts](https://github.com/NYCU-NLP-Lab/MathEDU/blob/main/Prompts.pdf)
+
+
+## Citation
+
+```bibtex
+@article{hsu2025mathedu,
+  title={MathEDU: Towards Adaptive Feedback for Student Mathematical Problem-Solving},
+  author={Hsu, Wei-Ling and Tang, Yu-Chien and Yen, An-Zi},
+  journal={arXiv preprint arXiv:2505.18056},
+  year={2025}
+}
