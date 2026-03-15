@@ -1,5 +1,5 @@
 # MathEDU
-Remediate Students’ Mistakes in Math Problem Solving in Support of Mathematical Education
+MathEDU: Feedback Generation on Problem-Solving Processes for Mathematical Learning Support
 
 ## Requirements
 Install requirements using `pip install -r requirements.txt`
